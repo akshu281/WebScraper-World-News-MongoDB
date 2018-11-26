@@ -1,0 +1,11 @@
+{"_id":{"$oid":"5b7686844719c8f4943b7596"},"region":"ANZ","homepages":["https://www.news.com.au/","https://www.nzherald.co.nz/"]}
+{"_id":{"$oid":"5b7686844719c8f4943b7597"},"region":"India","homepages":["https://www.thehindu.com/","https://indianexpress.com/","https://www.deccanchronicle.com/"]}
+{"_id":{"$oid":"5b7686844719c8f4943b7598"},"region":"Singapore","homepages":["https://www.straitstimes.com/","https://www.channelnewsasia.com/"]}
+{"_id":{"$oid":"5b7686844719c8f4943b7599"},"region":"China","homepages":["http://www.xinhuanet.com/english/","http://www.chinadaily.com.cn/"]}
+{"_id":{"$oid":"5b7686844719c8f4943b759a"},"region":"Russia","homepages":["https://russia-insider.com/en"]}
+{"_id":{"$oid":"5b7686844719c8f4943b759d"},"region":"Europe","homepages":["http://www.dailymail.co.uk","https://www.neweurope.eu/","http://www.euronews.com/"]}
+{"_id":{"$oid":"5b7686844719c8f4943b759e"},"region":"US","homepages":["https://www.usatoday.com/","https://www.nytimes.com/"]}
+{"_id":{"$oid":"5b7686844719c8f4943b759f"},"region":"Nigeria","homepages":["https://www.vanguardngr.com/","http://dailypost.ng/"]}
+{"_id":{"$oid":"5b7686844719c8f4943b75a0"},"region":"South Africa","homepages":["https://www.iol.co.za/","https://mg.co.za/"]}
+{"_id":{"$oid":"5b7686844719c8f4943b75a1"},"region":"UAE","homepages":["https://gulfnews.com/"]}
+{"_id":{"$oid":"5b7686844719c8f4943b75a2"},"region":"Mexico","homepages":["https://mexiconewsdaily.com"]}
